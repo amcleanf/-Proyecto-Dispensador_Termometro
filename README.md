@@ -1,6 +1,5 @@
 
 #  Proyecto Dispensador de Gel Automatico 
-### Fase 1
 
 
 Este es un repositorio en donde se va a ir desarrollando nuestro proyecto final para la materia de Cricuitos Electronicos lV de la carrera de ing. mecatronica de la Universidad Latina de Panamá. Estudiantes: Carlos Serracin y Aaron Mclean. Profesor: Pablo González Robles.
@@ -19,6 +18,13 @@ Los sanitizadores comunes trabajan mediante nua valvula mecanica que se abre y s
 Esta es la manera en la que buscamos estructurar nuestro microcontrolador y pues claro, utlizando la tecnología mas reciente que se tenga a la mano con el fín de mejorar el funcionamiento y la disposiscion actual de estos equipos que forman parte de nuestras vida diaria, y no solo en los recintos publicos o restaurantes y baños, sino incluso ahora en las puertas de entrada de entra de las casas, 
 oficinas, bancos, tiendas y un sinnumero de lugares.
 
+##Los materiales que utilizamos son los siguientes
+•	El atemega328p
+•	Dos leds (azul y verde)
+•	Un servomotor
+•	Una resistencia de 1k
+•	Un infra red sensor (detector de obstáculos)
+•	Un activador analógico 
 
 ## Servo motor y PWM
 ![image](https://user-images.githubusercontent.com/66341655/86657713-12de6180-bfae-11ea-988f-512e9ec3371f.png)
